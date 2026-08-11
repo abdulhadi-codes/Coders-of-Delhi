@@ -49,12 +49,12 @@ To apply the Data Science concepts learned from the handbook to a real dataset a
 ## 📂 Project Structure
 
 
-Coders-of-Delhi/
-│
-├── data/
-├── notebook/
-├── README.md
-└── requirements.txt
+Coders-of-Delhi
+
+ data
+ notebook
+ README.md
+ requirements.txt
 
 ## 🚀 How to Run
 
